@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "316033909840",
+        "project_id": "rikimarketapp",
+        "storage_bucket": "rikimarketapp.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:316033909840:android:8e88a17fde92202fda3d55",
+                "android_client_info": {
+                    "package_name": "com.rikimarket.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBuFb7ofjsjEJjd53ebJw6jx4XU-WdfNks"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
